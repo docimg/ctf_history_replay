@@ -1,0 +1,120 @@
+version: "2.1"
+services:
+  pop_chain_epic:
+    build: ./pop_chain_epic
+    image: docimg/ctf-2020-geek-pce
+    restart: always
+    ports:
+      - "6661:80"
+    container_name: pce
+  xd_pyp:
+    build: ./X迪的pyp语言
+    image: docimg/ctf-2020-geek-pyp
+    restart: always
+    ports:
+      - "6662:5000"
+    container_name: pyp
+  zxt:
+    build: ./知X堂的php教程
+    image: docimg/ctf-2020-geek-zxt
+    restart: always
+    ports:
+      - "6663:80"
+    container_name: zxt
+  welcome:
+    build: ./welcome
+    image: docimg/ctf-2020-geek-welcome
+    restart: always
+    ports:
+      - "6664:80"
+    container_name: welcome
+  myblog:
+    build: ./myblog
+    image: docimg/ctf-2020-geek-myblog
+    restart: always
+    ports:
+      - "6665:80"
+    tty: True
+    container_name: myblog
+  rceme:
+    build: ./rceme
+    image: docimg/ctf-2020-geek-rceme
+    restart: always
+    ports:
+      - "6666:80"
+    tty: True
+    container_name: rceme
+  proxy:
+    image: soarinferret/iptablesproxy:latest
+    restart: always
+    cap_add:
+      - NET_ADMIN
+    environment:
+      - "SERVERIP=172.18.0.3"
+      - "SERVERPORT=80"
+      - "HOSTPORT=80"
+    ports:
+      - '6667:80'
+    networks:
+      - internet
+      - no-internet
+    container_name: proxy
+  ffily:
+    build: ./FighterFightsInvincibly
+    image: docimg/ctf-2020-geek-ffily
+    networks:
+      no-internet:
+        ipv4_address: 172.18.0.3
+    tty: True
+    container_name: ffily
+    depends_on:
+      - proxy
+  flagshop:
+    build: ./flagshop/web
+    image: docimg/ctf-2020-geek-flagshop
+    ports:
+      - "6668:80"
+    tty: True
+    networks:
+      - flagshop
+    container_name: flagshop
+    depends_on:
+      - xssbot
+  xssbot:
+    build: ./flagshop/xssbot
+    image: docimg/ctf-2020-geek-xssbot
+    networks:
+      - flagshop
+    container_name: xssbot
+  greatphp:
+    build: ./greatphp
+    image: docimg/ctf-2020-geek-greatphp
+    ports:
+      - "6669:80"
+    tty: True
+    container_name: greatphp
+  cross:
+    build: ./cross
+    image: docimg/ctf-2020-geek-cross
+    ports:
+      - "6670:80"
+    cap_add:
+      - LINUX_IMMUTABLE
+    tty: True
+    container_name: cross
+
+networks:
+  internet:
+    driver: bridge
+  no-internet:
+    driver: bridge
+    internal: true
+    ipam:
+      config:
+      - subnet: 172.18.0.0/16
+        gateway: 172.18.0.1
+  flagshop:
+    ipam:
+      config:
+      - subnet: 172.20.0.0/16
+        gateway: 172.20.0.1

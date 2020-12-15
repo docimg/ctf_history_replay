@@ -1,0 +1,97 @@
+h1 {
+   font-size: xx-large;
+}
+
+h2 {
+}
+
+a:hover {
+  color: purple !important;
+}
+
+a:link {
+  color: darkblue;
+}
+
+a:visited {
+  color: darkblue;
+}
+
+td.current {
+  text-align: left;
+  font-size: large; 
+  width: 30%; 
+}
+
+.ttop {
+  vertical-align: text-top;
+  font-size: large;
+}
+
+.info {
+  text-align: center;
+  font-size: medium; 
+  width: 33%; 
+}
+
+.info50 {
+  text-align: center;
+  font-size: medium; 
+  width: 50%; 
+}
+
+.divtext {
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 2%;
+}
+
+.pad1 {
+  padding: 1%;
+}
+
+.dmain {
+  width: 80%;
+  background: #FFFFFF;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.back {
+  background: #000080;
+}
+
+.tmain {
+  width: 80%;
+  background: #FFFFFF;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.thead {
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  border-style: solid;
+  font-size: xx-large;
+  float: left;
+}
+
+.tbody {
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  border-style: solid;
+}
+
+.cellpad { 
+  padding-right: 20px;
+  text-align: center;
+}
+
+.reqItems {
+  color: red;
+}
+
